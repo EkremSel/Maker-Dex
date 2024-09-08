@@ -37,7 +37,7 @@ import requests
 import time
 
 # replace with your own API key
-api_key = '6K6FJJ7X1Z2FJFHYND38R4U5IM4ARTR22U'
+api_key = '*******'
 
 # replace with the contract address of the MKR token
 contract_address = '0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2'
